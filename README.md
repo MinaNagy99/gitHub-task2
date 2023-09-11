@@ -1,7 +1,5 @@
 # to remove local branch with merge??
-```bash
-git branch -d test 
-```
+```bash    git git branch -d test  ```
 
 # to remove local branch without merge??
 git branch -D test 
