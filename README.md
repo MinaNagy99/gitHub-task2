@@ -20,10 +20,10 @@ to retreve all modify
   ``` bash git tag v1.17 ```
 
   # Tell me to delete tag remotely ?
-  ``` bash git push origin --delete v1.17 ```
+  ```bash git push origin --delete v1.17 ```
 
 # Tell me to delete tag local?
-``` bash git tag -d v1.17 ```
+```bash git tag -d v1.17 ```
 
 
 
