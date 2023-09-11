@@ -13,6 +13,18 @@ to hide all modify
 to retreve all modify
 ``` bash git stash pop ```
 
+# Tell me how to list tags.
+  to get all tags 
+  ``` bash git tag ```
+  to get spasific tag
+  ``` bash git tag v1.17 ```
+
+  # Tell me to delete tag remotely ?
+  ``` bash git push origin --delete v1.17 ```
+
+# Tell me to delete tag local?
+``` bash git tag -d v1.17 ```
+
 
 
 # this photo
